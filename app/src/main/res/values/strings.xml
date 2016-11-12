@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fiction_reader</string>
+
+    <string name="master">佳作</string>
+    <string name="anecdote">幻闻</string>
+    <string name="subject">专题</string>
+    <string name="comment">评论</string>
+    <string name="other">其他</string>
+    <string name ="mine">我的</string>
+
+</resources>
